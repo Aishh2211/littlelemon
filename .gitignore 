@@ -1,0 +1,15 @@
+# Ignore CocoaPods
+/Pods/
+
+# Ignore Xcode build files
+/build/
+/DerivedData/
+
+# Ignore user-specific files
+.idea/
+.vscode/
+*.xcuserdata/
+
+# Ignore temporary files
+*.swp
+*.swo
